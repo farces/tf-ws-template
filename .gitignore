@@ -2,3 +2,4 @@ secret/
 .terraform/
 .terraform.*
 *.tfstate
+*.tfstate.backup
