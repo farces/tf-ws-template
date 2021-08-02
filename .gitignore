@@ -1,4 +1,3 @@
 secret/
-environments/
 .terraform/
 .terraform.*
